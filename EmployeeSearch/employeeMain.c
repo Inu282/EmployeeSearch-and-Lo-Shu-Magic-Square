@@ -1,5 +1,5 @@
 //gcc employeeMain.c EmployeeTable.c employeeOne.c
-//gcc emplcdoyeeMain.c EmployeeTable.c employeeTwo.c
+//gcc employeeMain.c EmployeeTable.c employeeTwo.c
 #include<string.h>
 #include <stdlib.h>
 #include "Employee.h"
